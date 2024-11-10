@@ -25,3 +25,7 @@ This enables in terminal use `npm start` to run the script.
 
 10. In package.json file swap `jest` to script test.
 
+11. Write a function to get URLs from HTML.
+`npm install jsdom`
+devDependencies are used for developers.
+dependencies are used by the application when it's running in production.
